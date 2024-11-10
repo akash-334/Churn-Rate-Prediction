@@ -2,6 +2,6 @@ streamlit==1.22.0
 scikit-learn==1.2.0
 numpy==1.23.5
 pandas==1.5.3
-pickle5==0.0.11  # If you need backward compatibility with older pickle files
+
 matplotlib==3.7.1
 seaborn==0.12.2
