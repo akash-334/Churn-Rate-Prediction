@@ -1,0 +1,7 @@
+streamlit==1.22.0
+scikit-learn==1.2.0
+numpy==1.24.0
+pandas==1.5.3
+pickle5==0.0.11  # To ensure compatibility with older pickle files (if needed)
+matplotlib==3.7.1
+seaborn==0.12.2
