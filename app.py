@@ -4,9 +4,9 @@ import numpy as np
 import pandas as pd
 
 # Load the pre-trained model and scaler
-with open(r'C:\Users\91898\churn.pkl', 'rb') as f:
+with open('churn.pkl', 'rb') as f:
     model = pickle.load(f)
-with open(r'C:\Users\91898\standard_scaler.pkl', 'rb') as f:
+with open('standard_scaler.pkl', 'rb') as f:
     scaler = pickle.load(f)
 
 # Title and description
